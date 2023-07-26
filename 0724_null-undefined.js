@@ -33,4 +33,4 @@ console.log(f[10]);                   // undefined
 
 // 의도적으로 '값이 비었음'을 나타내고 싶으면 직접 null 값을 할당해야 됨.
 const g = null;
-console.log(f);                       // null
+console.log(g);                       // null
